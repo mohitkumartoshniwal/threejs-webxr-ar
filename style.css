@@ -9,3 +9,17 @@ body {
   overflow: hidden;
   background-color: #000;
 }
+
+#overlay-content {
+  position: absolute;
+  left: calc(50% - 7rem);
+  /* Comment display none for dom overlay to work */
+  /* display: none; */
+}
+
+#container {
+  width: 14rem;
+  color: white;
+  margin: 2rem auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
