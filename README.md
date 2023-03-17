@@ -12,4 +12,9 @@ Code for the [Youtube playlist](https://youtube.com/playlist?list=PLpM_sf_d5YTPL
 
 - [Models shown in real world using hit testing](https://xr-hit-models.netlify.app/)
 
-Do star the repository if you found it helpful !!
+## Credits
+
+
+Models taken from https://market.pmnd.rs/
+
+### Do star the repository if you found it helpful !!
